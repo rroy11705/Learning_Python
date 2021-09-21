@@ -1,0 +1,34 @@
+<metadata>
+<food>
+    <item name="breakfast">Idly</item>
+    <price new_price="yes">$3.5</price>
+    <description>
+   Two idly's with chutney
+   </description>
+    <calories>553</calories>
+<tasty>Yes</tasty></food>
+<food>
+    <item name="breakfast">Paper Dosa</item>
+    <price new_price="yes">$3.7</price>
+    <description>
+    Plain paper dosa with chutney
+    </description>
+    <calories>700</calories>
+</food>
+<food>
+    <item name="breakfast">Bisi Bele Bath</item>
+    <price new_price="yes">$5.5</price>
+    <description>
+   Bisi Bele Bath with sev
+    </description>
+    <calories>400</calories>
+</food>
+<food>
+    <item name="breakfast">Kesari Bath</item>
+    <price new_price="yes">$2.95</price>
+    <description>
+    Sweet rava with saffron
+    </description>
+    <calories>950</calories>
+</food>
+</metadata>
