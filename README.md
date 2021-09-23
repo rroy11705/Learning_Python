@@ -5,3 +5,4 @@
 ### -> Day 3/ Day4/ Day5/ Day 6: Advanced Python [includes notebooks and codes + Practice codes]
 ### -> Day 6: XML + AgrParse
 ### -> Day 7: AgrParse Cont... + Networking + Templating
+### -> Day 8: Templating Cont... + Pyuniitest
